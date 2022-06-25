@@ -3,8 +3,7 @@ title: "Bahram Salehi"
 draft: false
 
 ---
-#### Ph.D, P.Eng., IEEE (Senior)
-
+#### Ph.D, P.Eng., IEEE 
 #### [Assistant Professor of Remote Sensing Engineering](https://www.esf.edu/faculty/salehi/)
 ![](/images/My_Photo.jpg)
 #### State University of New York (SUNY)
