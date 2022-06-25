@@ -6,7 +6,7 @@ draft: false
 #### Ph.D, P.Eng., IEEE (Senior)
 
 #### [Assistant Professor of Remote Sensing Engineering](https://www.esf.edu/faculty/salehi/)
-![](/images/Salehi4.jpg)
+![](/images/My_Photo.jpg)
 #### State University of New York (SUNY)
 #### College of Environmental Science and Forestry (ESF)
 
